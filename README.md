@@ -1,2 +1,2 @@
 # DatabaseHW
-BiUH-databaseGroup(3 members):He Yiyang, Tao Nijia, Liang Ruyi
+BiUH-databaseGroup(3 members):He Yiyang（student number：2023010114）, Tao Nijia（student number：2023010120）, Liang Ruyi（student number：2023010103）
